@@ -1,0 +1,14 @@
+[user]
+	email = laurent_lu@163.com
+	name = Laurent Lu
+
+[core]
+	editor = vim
+
+
+[color]
+	ui = auto
+
+[alias]
+	st = status
+	br = branch
